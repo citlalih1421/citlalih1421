@@ -4,6 +4,8 @@ I'm a software engineering student at Mississippi State University. I create thi
   FYI: Citlali is pronounced as "Sit" (like sitting down) + "Lolli" (as in lollipop) for you English speaker or as is in Spanish. 
 </p>
 
+
+<!-- ![Citlali's GitHub stats](https://github-readme-stats.vercel.app/api?username=citlalih1421&show_icons=true&theme=node)  -->
 ## Skills
 
 #### Languages 
