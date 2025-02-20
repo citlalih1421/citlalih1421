@@ -28,7 +28,7 @@ I'm a software engineering student at Mississippi State University. I create thi
 #### Database
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)" />
   
 </p>
 
@@ -36,9 +36,9 @@ I'm a software engineering student at Mississippi State University. I create thi
 #### Learning
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <!--
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-%0Athe-badge&logo=typescript&logoColor=white" /> 
   <img src=" " />
@@ -49,7 +49,7 @@ I'm a software engineering student at Mississippi State University. I create thi
 
 #### Current Projects
 <p> 
-  <p>Migraine tracker (iOS) </p>
+  Migraine tracker (iOS)
  <!-- <p>Crossword game (iOS) </p> -->
 </p>
 <!--
