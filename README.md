@@ -28,12 +28,30 @@ I'm a software engineering student at Mississippi State University. I create thi
 #### Database
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)" />
+  
 </p>
 
 
 #### Learning
 <p>
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)"/>
+  <img src="[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)" />
+  <img src="[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)" />
+  <!--
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-%0Athe-badge&logo=typescript&logoColor=white" /> 
+  <img src=" " />
+  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  -->
+  
+</p>
+
+#### Current Projects
+<p> 
+  <p>Migraine tracker (iOS) </p>
+ <!-- <p>Crossword game (iOS) </p> -->
 </p>
 <!--
 #### IDE
