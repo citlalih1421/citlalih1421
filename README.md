@@ -50,6 +50,16 @@ I'm a software engineering student at Mississippi State University. I create thi
 #### Current Projects
 <p> 
   Migraine tracker (iOS)
+  Social Calendar/Digital Scrapbook (iOS) 
+  <!-- Bible Trivia Game (flutter) -->
+ <!-- <p>Crossword game (iOS) </p> -->
+</p>
+
+#### Future Projects
+<p> 
+  Quizlet/Anki Flashcard Game with Grammar (iOS)
+  Bible Trivia Game (flutter)
+  Chinese Dictionary API
  <!-- <p>Crossword game (iOS) </p> -->
 </p>
 <!--
